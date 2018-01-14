@@ -31,14 +31,14 @@
 
 11.数据挖掘导论
 
-## 学习python  
+# 学习python  
 
 1.Python编程快速上手  
 
 2.Python基础教程  
 
 
-## Reading：  
+# Reading：  
 
 ReadinglistsfornewMILAstudents  
 
@@ -47,8 +47,13 @@ ReadinglistsfornewMILAstudents
 张志华-机器学习的发展历程及启示  
 
 
-## Git学习资源：  
+# Git学习资源：  
 
-1.http://www.runoob.com/git/git-tutorial.html  
+    1.http://www.runoob.com/git/git-tutorial.html  
 
-2.https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/  
+    2.https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/    
+
+# Resource Link Baiduyun   
+
+    链接: https://pan.baidu.com/s/1ggObO6B 密码: gx4s
+
