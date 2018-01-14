@@ -1,4 +1,7 @@
-1.吴恩达 深度学习 网易云课堂  http://mooc.study.163.com/smartSpec/detail/1001319001.htm  
+# Book
+1.吴恩达 深度学习 网易云课堂   
+
+      http://mooc.study.163.com/smartSpec/detail/1001319001.htm  
 
 2.周志华 机器学习  
 
@@ -28,14 +31,14 @@
 
 11.数据挖掘导论
 
-##学习python  
+## 学习python  
 
 1.Python编程快速上手  
 
 2.Python基础教程  
 
 
-##reading：  
+## Reading：  
 
 ReadinglistsfornewMILAstudents  
 
@@ -44,7 +47,7 @@ ReadinglistsfornewMILAstudents
 张志华-机器学习的发展历程及启示  
 
 
-##git学习资源：  
+## Git学习资源：  
 
 1.http://www.runoob.com/git/git-tutorial.html  
 
