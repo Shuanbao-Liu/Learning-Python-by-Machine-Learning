@@ -1,9 +1,5 @@
 # Book
-<<<<<<< HEAD
 1.吴恩达 深度学习 网易云课堂 
-=======
-1.吴恩达 深度学习 网易云课堂   
->>>>>>> 904d8a52625bb1710fea02b8886df6c713ce1c0d
 
       http://mooc.study.163.com/smartSpec/detail/1001319001.htm  
 
@@ -35,22 +31,14 @@
 
 11.数据挖掘导论
 
-<<<<<<< HEAD
 # Learning python  
-=======
-# 学习python  
->>>>>>> 904d8a52625bb1710fea02b8886df6c713ce1c0d
 
 1.Python编程快速上手  
 
 2.Python基础教程  
 
 
-<<<<<<< HEAD
 # Reading： 
-=======
-# Reading：  
->>>>>>> 904d8a52625bb1710fea02b8886df6c713ce1c0d
 
 ReadinglistsfornewMILAstudents  
 
@@ -58,7 +46,6 @@ ReadinglistsfornewMILAstudents
 
 张志华-机器学习的发展历程及启示    
 
-<<<<<<< HEAD
 # 算法比赛（有必要利用比赛来促进学习）  
 
 1.国外大型机器学习平台  
@@ -72,31 +59,12 @@ a. Titanic（预测生存：一种二元分类问题）：  https://www.kaggle.c
 b. 房价（预测价格：回归问题）： https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
     
 微信：  
-=======
-#  算法比赛（有必要利用比赛来促进学习）  
-
-    1.Kaggle  https://www.kaggle.com/  
-    
-    入门级比赛：  
-    
-    a. Titanic（预测生存：一种二元分类问题）：  
-    https://www.kaggle.com/c/titanic   
-                
-    b. 房价（预测价格：回归问题）：  
-    https://www.kaggle.com/c/house-prices-advanced-regression-techniques  
-    
-    微信：  
->>>>>>> 904d8a52625bb1710fea02b8886df6c713ce1c0d
     
     从零开始，教初学者如何征战Kaggle竞赛  
     
     https://mp.weixin.qq.com/s/AugvVfrfAo6yflOeyM1O0A  
     
-<<<<<<< HEAD
 2.国内：DataCastle   
-=======
-    2.国内：DataCastle   
->>>>>>> 904d8a52625bb1710fea02b8886df6c713ce1c0d
     
     http://www.pkbigdata.com/
 
