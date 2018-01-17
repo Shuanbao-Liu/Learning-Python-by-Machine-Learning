@@ -52,10 +52,12 @@ ReadinglistsfornewMILAstudents
     
     入门级比赛：  
     
-             a. Titanic（预测生存：一种二元分类问题）：  
+             a. Titanic（预测生存：一种二元分类问题）：    
+             
                 https://www.kaggle.com/c/titanic   
                 
-             b. 房价（预测价格：回归问题）：  
+             b. 房价（预测价格：回归问题）：   
+             
                 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
     微信：  
     
