@@ -51,8 +51,7 @@ ReadinglistsfornewMILAstudents
     1.Kaggle  https://www.kaggle.com/     
     
     入门级比赛：  
-    
-              a. Titanic（预测生存：一种二元分类问题）：  
+              a. Titanic（预测生存：一种二元分类问题）：   
               
                 https://www.kaggle.com/c/titanic   
                 
